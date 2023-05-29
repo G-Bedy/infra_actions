@@ -18,5 +18,6 @@ test 16
 test 17
 test 18 ssh ubuntu without header footer
 test 18-1 ssh ubuntu with header footer - ЗАРАБОТАЛО!!!)))
-test 19 ssh windows with header footer and change passphrase
-test 19-1 ssh windows with header footer and wrong passphrase
+test 19 ssh windows with header footer and change passphrase - ТОЖЕ РАБОТАЕТ!)))
+test 19-1 ssh windows with header footer and wrong passphrase - НЕ ЗАРАБОТАЛ!)))
+возвращаю на ssh ubuntu с заголовками и паролем 
