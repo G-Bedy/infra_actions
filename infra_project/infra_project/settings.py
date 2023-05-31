@@ -30,15 +30,15 @@ ALLOWED_HOSTS = ['51.250.10.30']
 
 # Application definition
 
-# INSTALLED_APPS = [
-#     'infra_app.apps.InfraAppConfig',
-#     'django.contrib.admin',
-#     'django.contrib.auth',
-#     'django.contrib.contenttypes',
-#     'django.contrib.sessions',
-#     'django.contrib.messages',
-#     'django.contrib.staticfiles',
-# ]
+INSTALLED_APPS = [
+    'infra_app.apps.InfraAppConfig',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
